@@ -3,7 +3,7 @@
  1. Editing text <br >
  2. Saving file <br >
  3. Opening file <br >
- 4. Clearing text <br >
+ 4. "Clear" function <br >
  5. "About" menu bar with student and university info .
 
 ![Screenshot1](https://github.com/Sakubek1337/javamidterm/blob/main/screenshots/general.PNG)
